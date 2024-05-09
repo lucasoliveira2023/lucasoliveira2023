@@ -12,23 +12,22 @@ Olá! Meu nome é Lucas Oliveira Franca. Sou formado em Gestão de Tecnologia da
 Durante minha trajetória, adquiri experiência e domínio em diversas tecnologias, incluindo:
 
 ### Linguagens de Programação
-- Python
-- Java (Atual desafio)
-- Unreal Engine (Último desafio)
+- Python 🐍
+- Java ☕ (Atual desafio)
+- Unreal Engine 🎮 (Último desafio)
 
 ### Web Development
-- HTML
-- Django
+- HTML 💻
+- Django 🎸
 
 ### Frameworks de Gestão
-- Scrum
-- Kanban
+- Scrum 🔄
+- Kanban 🔢
 
 ## Objetivos Profissionais
 Estou constantemente buscando aprimorar minhas habilidades e me desafiar. Meus objetivos atuais incluem dominar as tecnologias Java e Unreal Engine, além de me aperfeiçoar profissionalmente em diversas áreas do desenvolvimento de software.
 
 ## Contato
 Sinta-se à vontade para entrar em contato comigo:
-- Email: [blesslucas89@gmail.com](mailto:blesslucas89@gmail.com)
-- LinkedIn: [Lucas Oliveira Franca](https://www.linkedin.com/in/python-dev-lucas/)
-
+- Email: [seuemail@example.com](mailto:seuemail@example.com)
+- LinkedIn: [Lucas Oliveira Franca](https://www.linkedin.com/in/lucasoliveirafranca/)
