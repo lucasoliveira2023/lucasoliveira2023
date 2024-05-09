@@ -29,5 +29,5 @@ Estou constantemente buscando aprimorar minhas habilidades e me desafiar. Meus o
 
 ## Contato
 Sinta-se à vontade para entrar em contato comigo:
-- Email: [seuemail@example.com](mailto:seuemail@example.com)
-- LinkedIn: [Lucas Oliveira Franca](https://www.linkedin.com/in/lucasoliveirafranca/)
+- Email: [seuemail@example.com](mailto:blesslucas89@gmail.com)
+- LinkedIn: [Lucas Oliveira Franca](https://www.linkedin.com/in/python-dev-lucas/))
