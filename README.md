@@ -5,8 +5,8 @@ Olá! Meu nome é Lucas Oliveira Franca. Sou formado em Gestão de Tecnologia da
 
 ## Educação
 - Formado em Gestão de Tecnologia da Informação, 2022
-- Cursando Análise e Desenvolvimento de Sistemas na Impacta
-- MBA em Engenharia de Software na Impacta
+- Cursando Análise e Desenvolvimento de Sistemas na Impacta, 2024-2027
+- MBA em Engenharia de Software na Impacta 2024-2025
 
 ## Experiência e Conhecimentos
 Durante minha trajetória, adquiri experiência e domínio em diversas tecnologias, incluindo:
